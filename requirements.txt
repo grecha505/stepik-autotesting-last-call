@@ -1,7 +1,2 @@
 pytest
 selenium
-pip
-wheel
-request
-py
-setuptools
