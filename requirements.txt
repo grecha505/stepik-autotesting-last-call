@@ -1,0 +1,7 @@
+pytest~=6.0.2
+selenium~=3.141.0
+pip~=20.2.3
+wheel~=0.32.3
+request~=2019.4.13
+py~=1.9.0
+setuptools~=41.2.0
