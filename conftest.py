@@ -1,3 +1,8 @@
+"""
+Файл конфигурации для тестов проекта.
+Описывает запуск браузера, и передачу аргументов из cmd
+"""
+
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
